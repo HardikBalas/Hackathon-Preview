@@ -29,7 +29,7 @@ const Navigation = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center space-x-2">
             <Leaf className="h-8 w-8 text-primary" />
-            <span className="text-xl font-bold text-foreground">KisanSahay</span>
+            <span className="text-xl font-bold text-foreground">Harvestra</span>
           </div>
           
           <div className="hidden md:flex items-center space-x-1">
